@@ -1,7 +1,6 @@
 {
   "name": "newsfeed",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/cornwalljeremy/newsfeed/issues"
   },
-  "homepage": "https://github.com/cornwalljeremy/newsfeed#readme"
+  "homepage": "https://github.com/cornwalljeremy/newsfeed#readme",
+  "description": ""
 }
